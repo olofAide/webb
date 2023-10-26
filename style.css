@@ -1,0 +1,70 @@
+body {
+  height: 100%;
+  margin: auto;
+  text-align: center;
+  background-image: url(autobahn.jpg);
+  background-size: cover;
+}
+ 
+nav {
+  display: flex;      
+  list-style-type: none;
+  justify-content: space-evenly;
+  min-height: 8vh;
+  background-color: rgb(204, 228, 228);
+  font-family: "Montserrat", sans-serif;
+}
+  
+.dragrace ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.dragracer_container {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+}
+
+.nav-links {
+  justify-content: space-evenly;
+}
+.Autobahn ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.Autobahn_container {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+}
+.nurburing ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.nurburing_container {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+}
+.nav-links {
+  justify-content: space-evenly;
+} 
+.box {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+    
+.red {
+  background-color: rgb(255, 255, 255);
+}
